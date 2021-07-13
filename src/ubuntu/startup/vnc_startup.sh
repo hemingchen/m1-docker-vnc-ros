@@ -22,10 +22,6 @@ while getopts "wr:d:p:" opt; do
   esac
 done
 
-echo "$VNC_RESOLUTION"
-echo "$VNC_COL_DEPTH"
-echo "$VNC_PW"
-
 echo -e "\n\n------------------ VNC parameters ------------------"
 echo -e "resolution:  $VNC_RESOLUTION"
 echo -e "color depth: $VNC_COL_DEPTH"
