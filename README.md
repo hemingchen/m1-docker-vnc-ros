@@ -4,7 +4,7 @@ This image is developed based on `ConSol/docker-headless-vnc-container` and `hen
 
 It contains ROS Melodic, Gazebo 11, xfce, vnc, and no-vnc (for vnc through web browser).
 
-It has been tested on Mac with Apple M1 Silicon running macOS 11 Big Sur.
+It has been tested on Mac with both Intel and Apple M1 Silicon running macOS 11 Big Sur.
 
 ## Usage
 
